@@ -1,0 +1,3 @@
+inputs
+.ghc.environment.*
+dist-newstyle
